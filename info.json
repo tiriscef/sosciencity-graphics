@@ -1,0 +1,10 @@
+{
+    "name": "sosciencity-graphics",
+    "version": "0.0.1",
+    "title": "Sosciencity Graphics",
+    "author": "tiriscef",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.18",
+    "description": "Stores graphics and audio files so you don't have to redownload them after each update."
+}
