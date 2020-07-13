@@ -1,22 +1,37 @@
 All code and assets were created by tiriscef, with the following exceptions:
 
- Blender models/renders: 
+ Blender assets: 
 Some graphics use Blender materials from chocofur.com. 
 Some graphics use Textures from cgbookcase.com
 
-Models from blendswap.com:
+3d Models from blendswap.com:
     User: Yanaem
-    Model: Duckling
+        Model: Duckling
 
-Models from free3d.com:
+3d Models from free3d.com:
     User: printable_models
-    Model: Bird V1
-    Model: Cat v1
-    Model: Whale v4
+        Model: Bird V1
+        Model: Cat v1
+        Model: Whale v4
+        Model: dolphin v1
+        Model: Musk Deer V1
+        Model: Sturgeon V1
+        Model: Fish V1
+        Model: Red Head Solon Fairy Wrasse v1
 
     User: azlyirnizam
-    Model: chiken
-    Model: rooster
+        Model: chiken
+        Model: rooster
+
+    User: snippysnappets
+        Model: Low Poly Deer
+        Model: Low Poly Goat
+        Model: Low Poly Rat
+        Model: Low Poly Cow
+        Model: Low Poly Wolf
+
+    User: umar6419
+        Model: Octopus
 
  Sounds:
 audio contents from www.freesound.org:
