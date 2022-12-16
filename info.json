@@ -1,10 +1,10 @@
 {
     "name": "sosciencity-graphics",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "title": "Sosciencity Graphics",
-    "author": "tiriscef, Johanna Spieker",
-    "contact": "",
-    "homepage": "",
+    "author": "tiriscef, Johanna Spieker, _traum",
+    "contact": "tiriscef@protonmail.com",
+    "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=75057",
     "factorio_version": "1.1",
     "description": "Stores graphics and audio files so you don't have to redownload them after each update."
 }
