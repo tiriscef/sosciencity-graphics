@@ -1,45 +1,35 @@
-All code and assets were created by tiriscef, Johanna Spieker or _traum, with the following exceptions:
+All graphics and audio in this mod were created by tirisabella, Johanna Spieker and
+_traum, with the exceptions listed below.
 
- Blender assets: 
-Some graphics use Blender materials from chocofur.com. 
-Some graphics use Textures from cgbookcase.com
+The mod's own assets are licensed under CC-BY 4.0 (see LICENSE). The third-party assets
+below keep their own licenses.
 
-3d Models from blendswap.com:
-    User: Yanaem
-        Model: Duckling
 
-3d Models from free3d.com:
-    User: printable_models
-        Model: Bird V1
-        Model: Cat v1
-        Model: Whale v4
-        Model: dolphin v1
-        Model: Musk Deer V1
-        Model: Sturgeon V1
-        Model: Fish V1
-        Model: Red Head Solon Fairy Wrasse v1
+== Attribution required when reusing these assets ==
 
-    User: azlyirnizam
-        Model: chiken
-        Model: rooster
+If you reuse one of these assets (or a sprite derived from it), you must credit its author
+as listed here.
 
-    User: snippysnappets
-        Model: Low Poly Deer
-        Model: Low Poly Goat
-        Model: Low Poly Rat
-        Model: Low Poly Cow
-        Model: Low Poly Wolf
+  primal-quackling
+    3D model "Duckling" by Yanaem (blendswap.com) - CC-BY
 
-    User: umar6419
-        Model: Octopus
+  nightclub.ogg
+    "distorted kicking bass in front of the night club" by Tomlija (freesound.org) - CC-BY 3.0
 
- Sounds:
-audio contents from www.freesound.org:
-    User: Tomlija
-    Sample: distorted kicking bass in front of the night club [no copyright infringement intended].aif
+  chainsaw.ogg
+    "Chainsaw, Moderately Distant, A.wav" by InspectorJ (freesound.org) - CC-BY 4.0
 
-    User: JazzyBay
-    Sample: Greenhouse Watering
 
-    User: InspectorJ
-    Sample: Chainsaw, Moderately Distant, A.wav
+== Used, but no attribution required ==
+
+These are public-domain / CC0 sources. They are listed as a courtesy; reusing them carries
+no attribution obligation.
+
+  greenhouse-watering.ogg
+    "Greenhouse Watering" by JazzyBay (freesound.org) - CC0
+
+  Surface textures from cgbookcase.com - CC0
+    Used as materials in various rendered building sprites.
+
+  Materials from chocofur.com - CC0
+    Used in various rendered building sprites.
