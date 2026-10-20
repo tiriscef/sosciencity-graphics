@@ -80,7 +80,7 @@ return {
             glow = {
                 width = 244,
                 height = 284,
-                shift = {0.890625, 1.078125},
+                shift = {0.890625, 1.0625},
                 line_length = 33,
                 lines_per_file = 6,
                 filenames = {
