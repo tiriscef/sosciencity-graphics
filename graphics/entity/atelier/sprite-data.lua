@@ -7,9 +7,9 @@ return {
         animation_speed = 24 / 60,
         maps = {
             diffuse = {
-                width = 166,
+                width = 164,
                 height = 96,
-                shift = {-1.171875, -2.546877},
+                shift = {-1.1875, -2.546877},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
@@ -17,9 +17,9 @@ return {
                 }
             },
             glow = {
-                width = 162,
-                height = 92,
-                shift = {-1.171875, -2.546877},
+                width = 160,
+                height = 86,
+                shift = {-1.171875, -2.531252},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
@@ -33,9 +33,9 @@ return {
         animation_speed = 24 / 60,
         maps = {
             diffuse = {
-                width = 166,
+                width = 164,
                 height = 110,
-                shift = {-1.171875, -2.656252},
+                shift = {-1.1875, -2.656252},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
@@ -43,9 +43,9 @@ return {
                 }
             },
             glow = {
-                width = 162,
-                height = 96,
-                shift = {-1.171875, -2.578127},
+                width = 160,
+                height = 102,
+                shift = {-1.171875, -2.656252},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
@@ -57,25 +57,33 @@ return {
     static = {
         maps = {
             diffuse = {
-                width = 392,
-                height = 422,
-                shift = {0.03125, -0.203127},
+                width = 480,
+                height = 418,
+                shift = {-0.15625, -0.234377},
                 filenames = {
                     "__sosciencity-graphics__/graphics/entity/atelier/atelier.png"
                 }
             },
             shadowmap = {
-                width = 442,
-                height = 346,
-                shift = {0.546875, 0.343748},
+                width = 444,
+                height = 342,
+                shift = {0.53125, 0.312498},
                 filenames = {
                     "__sosciencity-graphics__/graphics/entity/atelier/atelier-shadowmap.png"
                 }
             },
+            lightmap = {
+                width = 350,
+                height = 80,
+                shift = {-0.046875, 1.953123},
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-lightmap.png"
+                }
+            },
             glow = {
-                width = 396,
-                height = 388,
-                shift = {-0.0625, -0.390627},
+                width = 398,
+                height = 358,
+                shift = {-0.015625, -0.562502},
                 filenames = {
                     "__sosciencity-graphics__/graphics/entity/atelier/atelier-glow.png"
                 }
@@ -87,9 +95,9 @@ return {
         animation_speed = 24 / 60,
         maps = {
             diffuse = {
-                width = 166,
+                width = 164,
                 height = 100,
-                shift = {-1.171875, -2.593752},
+                shift = {-1.1875, -2.593752},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
@@ -97,7 +105,7 @@ return {
                 }
             },
             glow = {
-                width = 162,
+                width = 160,
                 height = 96,
                 shift = {-1.171875, -2.578127},
                 line_length = 1,
