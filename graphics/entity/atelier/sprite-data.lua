@@ -2,6 +2,32 @@
 -- Don't edit by hand - re-export from Blender instead.
 -- Sizes in px at 64 px/tile (use scale = 0.5), shift in tiles.
 return {
+    ["found-art"] = {
+        frame_count = 1,
+        animation_speed = 24 / 60,
+        maps = {
+            diffuse = {
+                width = 164,
+                height = 102,
+                shift = {-1.1875, -2.609377},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-found-art.png"
+                }
+            },
+            glow = {
+                width = 160,
+                height = 96,
+                shift = {-1.171875, -2.609377},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-found-art-glow.png"
+                }
+            }
+        }
+    },
     idle = {
         frame_count = 1,
         animation_speed = 24 / 60,
@@ -18,12 +44,116 @@ return {
             },
             glow = {
                 width = 160,
-                height = 86,
-                shift = {-1.171875, -2.531252},
+                height = 90,
+                shift = {-1.171875, -2.562502},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
                     "__sosciencity-graphics__/graphics/entity/atelier/atelier-idle-glow.png"
+                }
+            }
+        }
+    },
+    jewellery = {
+        frame_count = 1,
+        animation_speed = 24 / 60,
+        maps = {
+            diffuse = {
+                width = 164,
+                height = 106,
+                shift = {-1.1875, -2.640627},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-jewellery.png"
+                }
+            },
+            glow = {
+                width = 160,
+                height = 100,
+                shift = {-1.171875, -2.656252},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-jewellery-glow.png"
+                }
+            }
+        }
+    },
+    ["kinetic-sculpture"] = {
+        frame_count = 1,
+        animation_speed = 24 / 60,
+        maps = {
+            diffuse = {
+                width = 164,
+                height = 108,
+                shift = {-1.1875, -2.484377},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-kinetic-sculpture.png"
+                }
+            },
+            glow = {
+                width = 160,
+                height = 98,
+                shift = {-1.171875, -2.531252},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-kinetic-sculpture-glow.png"
+                }
+            }
+        }
+    },
+    mixtape = {
+        frame_count = 1,
+        animation_speed = 24 / 60,
+        maps = {
+            diffuse = {
+                width = 166,
+                height = 108,
+                shift = {-1.203125, -2.640627},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-mixtape.png"
+                }
+            },
+            glow = {
+                width = 164,
+                height = 96,
+                shift = {-1.203125, -2.609377},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-mixtape-glow.png"
+                }
+            }
+        }
+    },
+    mosaic = {
+        frame_count = 1,
+        animation_speed = 24 / 60,
+        maps = {
+            diffuse = {
+                width = 164,
+                height = 106,
+                shift = {-1.1875, -2.625002},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-mosaic.png"
+                }
+            },
+            glow = {
+                width = 162,
+                height = 98,
+                shift = {-1.171875, -2.625002},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-mosaic-glow.png"
                 }
             }
         }
@@ -34,8 +164,8 @@ return {
         maps = {
             diffuse = {
                 width = 164,
-                height = 110,
-                shift = {-1.1875, -2.656252},
+                height = 96,
+                shift = {-1.1875, -2.546877},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
@@ -44,12 +174,38 @@ return {
             },
             glow = {
                 width = 160,
-                height = 102,
-                shift = {-1.171875, -2.656252},
+                height = 90,
+                shift = {-1.171875, -2.562502},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
                     "__sosciencity-graphics__/graphics/entity/atelier/atelier-painting-glow.png"
+                }
+            }
+        }
+    },
+    sketch = {
+        frame_count = 1,
+        animation_speed = 24 / 60,
+        maps = {
+            diffuse = {
+                width = 164,
+                height = 102,
+                shift = {-1.1875, -2.609377},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-sketch.png"
+                }
+            },
+            glow = {
+                width = 162,
+                height = 98,
+                shift = {-1.171875, -2.625002},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-sketch-glow.png"
                 }
             }
         }
@@ -96,8 +252,8 @@ return {
         maps = {
             diffuse = {
                 width = 164,
-                height = 100,
-                shift = {-1.1875, -2.593752},
+                height = 96,
+                shift = {-1.1875, -2.562502},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
@@ -106,8 +262,8 @@ return {
             },
             glow = {
                 width = 160,
-                height = 96,
-                shift = {-1.171875, -2.578127},
+                height = 90,
+                shift = {-1.171875, -2.562502},
                 line_length = 1,
                 lines_per_file = 1,
                 filenames = {
