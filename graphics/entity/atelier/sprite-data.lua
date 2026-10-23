@@ -158,6 +158,32 @@ return {
             }
         }
     },
+    novel = {
+        frame_count = 1,
+        animation_speed = 24 / 60,
+        maps = {
+            diffuse = {
+                width = 164,
+                height = 102,
+                shift = {-1.1875, -2.609377},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-novel.png"
+                }
+            },
+            glow = {
+                width = 158,
+                height = 96,
+                shift = {-1.1875, -2.625002},
+                line_length = 1,
+                lines_per_file = 1,
+                filenames = {
+                    "__sosciencity-graphics__/graphics/entity/atelier/atelier-novel-glow.png"
+                }
+            }
+        }
+    },
     painting = {
         frame_count = 1,
         animation_speed = 24 / 60,
