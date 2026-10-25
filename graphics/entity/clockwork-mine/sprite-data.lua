@@ -117,8 +117,8 @@ return {
             },
             glow = {
                 width = 342,
-                height = 350,
-                shift = {0.625, 0.765625},
+                height = 346,
+                shift = {0.625, 0.734375},
                 filenames = {
                     "__sosciencity-graphics__/graphics/entity/clockwork-mine/clockwork-mine-glow.png"
                 }
